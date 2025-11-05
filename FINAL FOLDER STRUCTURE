@@ -1,0 +1,18 @@
+lead-automation-assignment/
+│
+├── README.md
+├── prompts/
+│   ├── prompt_system.txt
+│   └── prompt_user.txt
+├── snippets/
+│   └── zapier_code_validate_json.js
+├── sample/
+│   └── sample_output.json
+└── proof/
+    ├── form.png
+    ├── zap_steps_1.png
+    ├── zap_steps_2.png
+    ├── zap_history.png
+    ├── sheet.png
+    ├── calendar_event.png
+    └── dashboard.png
