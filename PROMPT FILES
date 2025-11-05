@@ -1,0 +1,13 @@
+Create a folder in your repo:
+
+prompts/
+
+
+prompt_system.txt
+You are a strict JSON transformer...
+(Your system prompt text)
+
+
+prompt_user.txt
+Convert this lead into strict JSON...
+(Your user prompt text)
